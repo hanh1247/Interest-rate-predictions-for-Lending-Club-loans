@@ -8,7 +8,9 @@ Có 10.000 mẫu và 55 thuộc tính được ghi nhận trong bộ dữ liệu
 
 Thông tin các biến:
                    ![image](https://user-images.githubusercontent.com/110400587/234542353-b7f5b20b-581b-4614-864a-bea87bc7c3e3.png)
-                   ![image](https://user-images.githubusercontent.com/110400587/234542693-eaf3f08d-e8dc-4184-9a5f-e3496ff22ec5.png)
+                   ![image](https://user-images.githubusercontent.com/110400587/234542915-929a2d41-4679-4333-a335-30d697f4c54f.png)
+                   ![Uploading image.png…]()
+
 
 
 
