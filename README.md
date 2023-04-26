@@ -4,5 +4,17 @@ LendingClub cung cấp các khoản vay ở nhiều cấp độ khác nhau mà h
 
 
    ![image](https://user-images.githubusercontent.com/110400587/234538996-63b60eea-21b4-48bd-ac74-b7135257a243.png)        
+Có 10.000 mẫu và 55 thuộc tính được ghi nhận trong bộ dữ liệu
+
+Thông tin các biến:
+                   ![image](https://user-images.githubusercontent.com/110400587/234542353-b7f5b20b-581b-4614-864a-bea87bc7c3e3.png)
+                   ![image](https://user-images.githubusercontent.com/110400587/234542693-eaf3f08d-e8dc-4184-9a5f-e3496ff22ec5.png)
+
+
+
+
+
+
+
 
 [Nguồn data cho việc tính toán các giá trị trong sql](https://www.dropbox.com/sh/xhy2fzjdvg3ykhy/AADAVKH9tgD_dWh6TZtOd34ia?dl=0&preview=casestudy.csv)
